@@ -1,0 +1,20 @@
+Concept             What It Means
+
+HTTP/HTTPS    -     Rules for communication between browser and server
+
+Request       -     Your browser asking for something (a page, data)
+
+Response      -     The server's reply with what you asked for
+
+Status Codes  -     A code that tells you if the request worked or failed
+
+Browser       -     The software you use to access websites
+
+URL           -     The address of a webpage
+
+Server        -     The computer that stores and runs the website
+
+
+
+
+

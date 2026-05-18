@@ -1,0 +1,13 @@
+What You Want To Do    -   What Flask Gives You
+
+Show a page to users   -        @app.route() + return HTML
+
+React to clicks or form submits -  Flask reads the input for you
+
+Show data like name or product list  -  Flask helps you build pages using
+templates
+
+Handle logins, sessions    -  Flask helps you track users easily
+
+Connect to a database   -  Flask works with tools to store data
+
