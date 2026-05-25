@@ -40,3 +40,4 @@ def welcome():
 def logout():
     session.pop("user", None)   # None = to prevent error if user is not present
     return redirect(url_for("login"))
+
